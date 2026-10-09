@@ -1,0 +1,19 @@
+# Bảo mật tài liệu nội bộ / tài chính
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.pdf
+FINAL/
+
+# Bỏ qua các file ảnh render thử nghiệm cũ, chỉ giữ bản final
+olive_young_store_3d_render.jpg
+floor1_oliveyoung_style_render.jpg
+floor1_pistachio_palette_render.jpg
+floor1_real_photo_render.jpg
+floor1_shop_check_gpp_render.jpg
+floor2_care_clinic_render.jpg
+floor2_onmi_style_render.jpg
+floorplan_olive_young_200m2.html
